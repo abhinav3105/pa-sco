@@ -1,4 +1,4 @@
-# pa-sco: Passwird Generator 🔐
+# pa-sco: Password Generator 🔐
 
 Welcome to PA-SCO, a simple and efficient password generator built using HTML, CSS, and JavaScript. PA-SCO is designed to help you create strong, random passwords to enhance your online security.
 
